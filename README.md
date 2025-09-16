@@ -10,7 +10,7 @@ This API allows users to add and view recipes. It also comes with a basic fronte
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Sreeram9161/recipe-api-sreeram.git
    cd recipe-api-sreeram
    ```
 
