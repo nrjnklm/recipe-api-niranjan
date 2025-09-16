@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recipe Sharing</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Recipe Gallery</h1>
+
+  <form id="recipeForm">
+    <input type="text" id="title" placeholder="Title" required />
+    <input type="text" id="ingredients" placeholder="Ingredients" required />
+    <textarea id="instructions" placeholder="Instructions" required></textarea>
+    <input type="text" id="cookTime" placeholder="Cook Time" />
+    <button type="submit">Add Recipe</button>
+  </form>
+
+  <h2>All Recipes</h2>
+  <ul id="recipeList"></ul>
+
+  <script src="app.js"></script>
+</body>
+</html>
