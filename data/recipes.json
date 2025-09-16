@@ -18,29 +18,5 @@
     "instructions": "Boil pasta, mix with sauce and cheese.",
     "cookTime": "20 minutes",
     "difficulty": "medium"
-  },
-  {
-    "id": 1758012618188,
-    "title": "Pasta Alfredo",
-    "ingredients": [
-      "Pasta",
-      "Cream",
-      "Cheese"
-    ],
-    "instructions": "Boil pasta, mix with sauce and cheese.",
-    "cookTime": "20 minutes",
-    "difficulty": "medium"
-  },
-  {
-    "id": 1758012663672,
-    "title": "Pasta Alfredo",
-    "ingredients": [
-      "Pasta",
-      "Cream",
-      "Cheese"
-    ],
-    "instructions": "Boil pasta, mix with sauce and cheese.",
-    "cookTime": "20 minutes",
-    "difficulty": "medium"
   }
 ]
